@@ -1,0 +1,354 @@
+{
+  "name": "Natacha Tomkinson",
+  "label": "Senior Software Engineer",
+  "info": {
+    "label": "Senior software engineer/Lead",
+    "characterClass": "Programmer",
+    "brief": "Full-stack software engineer with 8+ years industry experience specializing in cloud-driven web applications and event-driven architectures"
+  },
+  "contact": {
+    "phone": "+447445673908",
+    "email": "natacha@tomkinsons.uk"
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "natseg",
+      "url": "https://github.com/natseg"
+    },
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "url": "https://www.linkedin.com/in/natachatomkinson/"
+    }
+  ],
+
+  "location": {
+    "address": "1 Greencroft Close",
+    "postalCode": "DL3 8HW",
+    "city": "Darlington",
+    "countryCode": "UK"
+  },
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.5.0"
+  },
+  "summary": "My strong suit is JavaScript on the front and the back end (Typescript included).\nI care about diversity in the workplace.\nI care about code quality.\nI care about delivering value to users.",
+  "skills": {
+    "sets": [
+      {
+        "name": "Programming Languages",
+        "category": "Programming Languages",
+        "skills": [
+          "JavaScript (Node.js, React.js)",
+          "TypeScript",
+          "Ruby",
+          "Elixir",
+          "Python",
+          "SQL",
+          "Racket",
+          "C",
+          "Svelte",
+          "VBA (Excel)"
+        ]
+      },
+      {
+        "name": "Frameworks and Libraries",
+        "category": "Frameworks and Libraries",
+        "skills": [
+          "React.js",
+          "ExpressJS",
+          "Ruby on Rails",
+          "Phoenix",
+          "SpringBoot"
+        ]
+      },
+      {
+        "name": "DevOps and Tools",
+        "category": "DevOps and Tools",
+        "skills": [
+          "Docker",
+          "Docker Compose",
+          "Localstack",
+          "Git (including Git hooks)",
+          "Bash scripting",
+          "Oracle SQL",
+          "Git version control (GitHub, Bitbucket)",
+          "Kubernetes"
+        ]
+      },
+      {
+        "name": "Cloud Technologies",
+        "category": "Cloud Technologies",
+        "skills": [
+          "Heroku",
+          "AWS (Amplify, DynamoDB, EventBridge, SQS, SNS, Lambdas, S3)",
+          "AWS CLI, SDK, CDK",
+          "API Gateway",
+          "RDS (Aurora)",
+          "CloudWatch",
+          "ECS",
+          "AWS CloudFormation",
+          "AWS SAM",
+          "Serverless Framework",
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Databases",
+        "category": "Databases",
+        "skills": [
+          "Oracle SQL",
+          "DynamoDB",
+          "MySQL",
+          "MongoDB (AWS DocumentDB)"
+        ]
+      },
+      {
+        "name": "CI/CD",
+        "category": "CI/CD",
+        "skills": [
+          "SonarCloud",
+          "Jenkins",
+          "Bitbucket Pipelines",
+          "Buddy",
+          "GitHub Actions"
+        ]
+      },
+      {
+        "name": "Testing",
+        "category": "Testing",
+        "skills": [
+          "Jest",
+          "Ava",
+          "Cypress",
+          "RSpec",
+          "Minitest",
+          "ExUnit",
+          "PHPUnit"
+        ]
+      },
+      {
+        "name": "Front-end Development",
+        "category": "Front-end Development",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "CSS-in-JS",
+          "Tailwind CSS",
+          "Material-UI (@mui)",
+          "Post-processors",
+          "Sass",
+          "Redux",
+          "Storybook"
+        ]
+      },
+      {
+        "name": "Project Management",
+        "category": "Project Management",
+        "skills": [
+          "Agile (Scrum)",
+          "Jira",
+          "Confluence",
+          "Bitbucket",
+          "GitHub",
+          "Kanban"
+        ]
+      }
+    ]
+  },
+  "employment": {
+    "history": [
+      {
+        "employer": "Hurdle",
+        "position": "Senior Software Engineer",
+        "start": "2022-01",
+        "end": "2023-06",
+        "duration": "1 year 6 months",
+        "location": "Darlington, England, United Kingdom",
+        "highlights": [
+          "micro-services architecture",
+          "build user interfaces",
+          "leading the front-end chapter",
+          "mentoring, hiring",
+          "AWS suite",
+          "Node.JS and React JS",
+          "terraform, serverless",
+          "databases (SQL, NoSql)",
+          "working with, designing and documenting APIs",
+          "TDD"
+        ]
+      },
+      {
+        "employer": "Kano Computing",
+        "position": "Senior Full Stack Engineer",
+        "start": "2021-09",
+        "end": "2021-12",
+        "duration": "4 months",
+        "location": "York, United Kingdom"
+      },
+      {
+        "employer": "University of York",
+        "position": "Senior Software Developer",
+        "start": "2019-08",
+        "end": "2021-08",
+        "duration": "2 years 1 month",
+        "location": "York, United Kingdom",
+        "highlights": [
+          "Mentoring, pairing, documenting, reviewing",
+          "Part of recruitment panels",
+          "Developing web/mobile applications and integrations between university systems and/or external APIs",
+          "Creation of org-shared react components library using storybook, snapshot testing, commitlinting, semantic release.",
+          "Developed an integration between SITS and a new scheduling system",
+          "Lambdas",
+          "S3 buckets for storage",
+          "Dynamodb for speed and because eventual consistency is good enough",
+          "Eventbridge and SQS queues to improve resiliency",
+          "Event-driven architecture"
+        ]
+      },
+      {
+        "employer": "Rebase Interactive Limited",
+        "position": "Full-stack Developer",
+        "start": "2018-02",
+        "end": "2019-08",
+        "duration": "1 year 7 months",
+        "location": "York, United Kingdom",
+        "highlights": [
+          "Working with clients to build technically performant apps",
+          "Stack: Elixir, Ruby, Rails, ReactJS, Sass, CSS, node",
+          "Rollup, Webpack"
+        ]
+      },
+      {
+        "employer": "Forward Financing",
+        "position": "Full-stack Developer",
+        "start": "2018-02",
+        "end": "2019-08",
+        "duration": "1 year 7 months",
+        "location": "York, United Kingdom",
+        "highlights": [
+          "Improve ability to auto-decline deals with a high chance of failing",
+          "Creation of org-shared of react components library",
+          "Creation of org-shared typescript utils functions",
+          "Refactored statistics modules for one of the internal-facing apps",
+          "Stack: Ruby on Rails, React, Elixir with Phoenix"
+        ]
+      },
+      {
+        "employer": "WEARVR LLC",
+        "position": "Web and Mobile developer",
+        "start": "2016-08",
+        "end": "2018-02",
+        "duration": "1 year 7 months",
+        "location": "Leeds",
+        "highlights": [
+          "Web and mobile development to develop and maintain VR game platform",
+          "Automated testing",
+          "Stack: Ruby on Rails, SQL dbs, CSS, LESS, Javascript, React, react-native, rspec, Mocha, Chai, Jasmine"
+        ]
+      },
+      {
+        "employer": "Amplience",
+        "position": "Presales Engineer",
+        "start": "2016-05",
+        "end": "2016-08",
+        "duration": "4 months",
+        "location": "London, United Kingdom",
+        "highlights": [
+          "Examine clients requirements and provide feasibility estimate",
+          "Develop proof of concept to showcase solution to client",
+          "Client-facing demos written in javascript"
+        ]
+      },
+      {
+        "employer": "Amplience",
+        "position": "Systems Analyst",
+        "start": "2015-03",
+        "end": "2016-04",
+        "duration": "1 year 2 months",
+        "location": "London, United Kingdom",
+        "highlights": [
+          "Gather requirements, help clients implement new solutions, creation of xml metadata schemas"
+        ]
+      },
+      {
+        "employer": "ChannelAdvisor",
+        "position": "Project Manager",
+        "start": "2013-07",
+        "end": "2015-03",
+        "duration": "1 year 9 months",
+        "highlights": [
+          "Train clients on SAAS solution",
+          "Daily use of regexes, ftp, excel advanced function (vlookup, etc)",
+          "Light VBA scripting"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "MSc",
+
+    "history": [
+      {
+        "institution": "University of York",
+        "area": "Computer Science",
+        "title": "Master's degree",
+        "start": "2020",
+        "end": "2023-04"
+      },
+      {
+        "institution": "Université Jean Moulin (Lyon III)",
+        "area": "English teaching",
+        "title": "C.A.P.E.S. (≈P.G.D.E.)",
+        "start": "2006",
+        "end": "2007"
+      },
+      {
+        "institution": "Université Jean Moulin (Lyon III)",
+        "area": "English Language, Civilisation and Literature",
+        "title": "Master 1",
+        "start": "2005",
+        "end": "2006"
+      },
+      {
+        "institution": "Université Stendhal (Grenoble III)",
+        "area": "English Language, Civilisation and Literature",
+        "title": "BA",
+        "start": "2004",
+        "end": "2005"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Games",
+      "keywords": ["Video Games", "Board Games", "Role-playing Games"]
+    },
+    {
+      "name": "Hobbies",
+      "keywords": ["Sewing", "Gardening"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Running"]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run validate && hackmyresume build resume.json TO out/resume.all -t node_modules/jsonresume-theme-eloquent",
+    "validate": "hackmyresume validate resume.json",
+    "format": "prettier --write resume.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natachatomkinson/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natachatomkinson/resume/issues"
+  },
+  "homepage": "https://github.com/natachatomkinson/resume#readme",
+  "dependencies": {
+    "fresh-resume-validator": "^0.2.0",
+    "jsonresume-theme-a11y": "^2.5.0",
+    "jsonresume-theme-eloquent": "^4.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
