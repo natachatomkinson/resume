@@ -34,7 +34,7 @@
     "format": "FRESH@0.6.0",
     "version": "0.5.0"
   },
-  "summary": "My strong suit is JavaScript on the front and the back end (Typescript included).\nI care about diversity in the workplace.\nI care about code quality.\nI care about delivering value to users.",
+  "summary": "My strong suit is JavaScript on the front and the back end (Typescript included).\nI care about diversity in the workplace.\nI care about code quality.\nI care about delivering value to users.\nI have consistently received recognition for my expertise, collaborative approach, and strong communication skills. Feedback from colleagues and stakeholders highlights my domain knowledge, my ability to effectively collaborate across teams, and my strong communication skills in conveying complex ideas clearly and concisely.",
   "skills": {
     "sets": [
       {
@@ -50,7 +50,8 @@
           "Racket",
           "C",
           "Svelte",
-          "VBA (Excel)"
+          "VBA (Excel)",
+          "PHP"
         ]
       },
       {
@@ -61,7 +62,8 @@
           "ExpressJS",
           "Ruby on Rails",
           "Phoenix",
-          "SpringBoot"
+          "SpringBoot",
+          "Laravel"
         ]
       },
       {
@@ -79,18 +81,17 @@
         ]
       },
       {
+        "name": "Diagrams",
+        "category": "Diagrams",
+        "skills": ["plantuml"]
+      },
+      {
         "name": "Cloud Technologies",
         "category": "Cloud Technologies",
         "skills": [
           "Heroku",
-          "AWS (Amplify, DynamoDB, EventBridge, SQS, SNS, Lambdas, S3)",
+          "AWS (Amplify, API Gateway, CloudFormation, Cloudwatch, DynamoDB, ECS, EventBridge, Lambdas, RDS, S3, SNS, SQS, ...)",
           "AWS CLI, SDK, CDK",
-          "API Gateway",
-          "RDS (Aurora)",
-          "CloudWatch",
-          "ECS",
-          "AWS CloudFormation",
-          "AWS SAM",
           "Serverless Framework",
           "Terraform"
         ]
@@ -170,16 +171,23 @@
         "duration": "1 year 6 months",
         "location": "Darlington, England, United Kingdom",
         "highlights": [
-          "micro-services architecture",
-          "build user interfaces",
-          "leading the front-end chapter",
-          "mentoring, hiring",
-          "AWS suite",
-          "Node.JS and React JS",
-          "terraform, serverless",
-          "databases (SQL, NoSql)",
-          "working with, designing and documenting APIs",
-          "TDD"
+          "Worked in startup environment",
+          "Migrated functionality from PHP Laravel legacy monolith to nodejs microservices",
+          "Closely liaised with internal and external stakeholders to scope and deliver new features",
+          "Architected micro-services for partner's authentication with JWT",
+          "Built user interfaces using Node.js and React.js",
+          "Led the front-end chapter",
+          "Organized regular knowledge-sharing sessions to ensure high-quality standards and continuous improvement",
+          "Led the team in adopting best practices in front-end development",
+          "Facilitated knowledge exchange and collaborated on shared initiatives such as UI component libraries and design system development",
+          "Worked with Terraform and Serverless for infrastructure provisioning",
+          "Designed and documented APIs",
+          "Mentored and coached",
+          "Hired team members",
+          "Used AWS suite",
+          "Designed and documented APIs",
+          "Practiced Test-Driven Development (TDD)",
+          "Learnt some Go in mobbing sessions during developer's 10% time"
         ]
       },
       {
@@ -188,7 +196,12 @@
         "start": "2021-09",
         "end": "2021-12",
         "duration": "4 months",
-        "location": "York, United Kingdom"
+        "location": "Remote",
+        "highlights": [
+          "Back-end focused",
+          "Kubernetes",
+          "Worked on a new platform to deliver content for the StemPlayer"
+        ]
       },
       {
         "employer": "University of York",
@@ -198,16 +211,15 @@
         "duration": "2 years 1 month",
         "location": "York, United Kingdom",
         "highlights": [
-          "Mentoring, pairing, documenting, reviewing",
-          "Part of recruitment panels",
-          "Developing web/mobile applications and integrations between university systems and/or external APIs",
-          "Creation of org-shared react components library using storybook, snapshot testing, commitlinting, semantic release.",
-          "Developed an integration between SITS and a new scheduling system",
-          "Lambdas",
-          "S3 buckets for storage",
-          "Dynamodb for speed and because eventual consistency is good enough",
-          "Eventbridge and SQS queues to improve resiliency",
-          "Event-driven architecture"
+          "Supported org-wide migration to AWS and react/nodejs",
+          "Closely liaised with internal stakeholders to scope and deliver new features",
+          "Mentored and paired with team members",
+          "Participated in recruitment panels",
+          "Developed web and mobile applications",
+          "Created a shared React component library using Storybook",
+          "Integrated university systems with external APIs",
+          "Used AWS services (Lambda, S3, DynamoDB, EventBridge, SQS)",
+          "Implemented event-driven architecture"
         ]
       },
       {
@@ -218,9 +230,9 @@
         "duration": "1 year 7 months",
         "location": "York, United Kingdom",
         "highlights": [
-          "Working with clients to build technically performant apps",
-          "Stack: Elixir, Ruby, Rails, ReactJS, Sass, CSS, node",
-          "Rollup, Webpack"
+          "Built technically performant apps for clients",
+          "Worked with Elixir, Ruby, Rails, ReactJS, Sass, CSS, and Node.js",
+          "Used Rollup and Webpack for bundling"
         ]
       },
       {
@@ -231,11 +243,11 @@
         "duration": "1 year 7 months",
         "location": "York, United Kingdom",
         "highlights": [
-          "Improve ability to auto-decline deals with a high chance of failing",
-          "Creation of org-shared of react components library",
-          "Creation of org-shared typescript utils functions",
-          "Refactored statistics modules for one of the internal-facing apps",
-          "Stack: Ruby on Rails, React, Elixir with Phoenix"
+          "Improved ability to auto-decline deals with a high chance of failing",
+          "Created a shared React component library",
+          "Developed a shared TypeScript utility functions library",
+          "Refactored statistics modules for internal-facing apps",
+          "Worked with Ruby on Rails, React, and Elixir with Phoenix"
         ]
       },
       {
@@ -246,9 +258,9 @@
         "duration": "1 year 7 months",
         "location": "Leeds",
         "highlights": [
-          "Web and mobile development to develop and maintain VR game platform",
-          "Automated testing",
-          "Stack: Ruby on Rails, SQL dbs, CSS, LESS, Javascript, React, react-native, rspec, Mocha, Chai, Jasmine"
+          "Developed and maintained VR game platform",
+          "Used automated testing",
+          "Worked with Ruby on Rails, SQL databases, CSS, JavaScript, React, react-native, rspec, Mocha, Chai, and Jasmine"
         ]
       },
       {
@@ -259,9 +271,9 @@
         "duration": "4 months",
         "location": "London, United Kingdom",
         "highlights": [
-          "Examine clients requirements and provide feasibility estimate",
-          "Develop proof of concept to showcase solution to client",
-          "Client-facing demos written in javascript"
+          "Examined client requirements and provided feasibility estimates",
+          "Developed proof of concept solutions",
+          "Performed client-facing demos using JavaScript"
         ]
       },
       {
@@ -272,7 +284,8 @@
         "duration": "1 year 2 months",
         "location": "London, United Kingdom",
         "highlights": [
-          "Gather requirements, help clients implement new solutions, creation of xml metadata schemas"
+          "Gathered requirements and helped clients implement new solutions",
+          "Created XML metadata schemas"
         ]
       },
       {
@@ -282,9 +295,9 @@
         "end": "2015-03",
         "duration": "1 year 9 months",
         "highlights": [
-          "Train clients on SAAS solution",
-          "Daily use of regexes, ftp, excel advanced function (vlookup, etc)",
-          "Light VBA scripting"
+          "Trained clients on SAAS solution",
+          "Used regular expressions, FTP, and advanced Excel functions",
+          "Implemented light VBA scripting"
         ]
       }
     ]
@@ -301,6 +314,7 @@
         "institution": "University of York",
         "area": "Computer Science",
         "title": "Master's degree",
+        "studyType": "MSc",
         "start": "2020",
         "end": "2023-04"
       },
@@ -308,6 +322,7 @@
         "institution": "Université Jean Moulin (Lyon III)",
         "area": "English teaching",
         "title": "C.A.P.E.S. (≈P.G.D.E.)",
+        "studyType": "C.A.P.E.S. (≈P.G.D.E.)",
         "start": "2006",
         "end": "2007"
       },
@@ -315,6 +330,7 @@
         "institution": "Université Jean Moulin (Lyon III)",
         "area": "English Language, Civilisation and Literature",
         "title": "Master 1",
+        "studyType": "Master 1",
         "start": "2005",
         "end": "2006"
       },
@@ -322,6 +338,8 @@
         "institution": "Université Stendhal (Grenoble III)",
         "area": "English Language, Civilisation and Literature",
         "title": "BA",
+        "degree": "BA",
+        "studyType": "BA",
         "start": "2004",
         "end": "2005"
       }
@@ -329,26 +347,20 @@
   },
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native or bilingual proficiency"
-    },
-    {
-      "language": "French",
+      "language": "English & French",
       "fluency": "Native or bilingual proficiency"
     }
   ],
   "interests": [
     {
-      "name": "Games",
-      "keywords": ["Video Games", "Board Games", "Role-playing Games"]
-    },
-    {
       "name": "Hobbies",
-      "keywords": ["Sewing", "Gardening"]
-    },
-    {
-      "name": "Sports",
-      "keywords": ["Running"]
+      "keywords": [
+        "Sewing",
+        "Gardening",
+        "Running",
+        "Wild Swimming",
+        "Video Games", "Board Games", "Role-playing Games"
+      ]
     }
   ]
 }

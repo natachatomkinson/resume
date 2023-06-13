@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/natachatomkinson/resume#readme",
   "dependencies": {
+    "@qdequippe/jsonresume-theme-paper": "^0.1.5",
     "fresh-resume-validator": "^0.2.0",
+    "hackmyresume": "^1.9.0-beta",
     "jsonresume-theme-a11y": "^2.5.0",
     "jsonresume-theme-eloquent": "^4.1.0"
   },
