@@ -1,0 +1,256 @@
+basics:
+  name: 'Natacha Tomkinson'
+  label: 'Senior software engineer/Lead'
+  summary: 'Full-stack software engineer with 8+ years industry experience specializing in cloud-driven web applications and event-driven architectures'
+  phone: '+447445673908'
+  email: natacha@tomkinsons.uk
+  location:
+    address: '1 Greencroft Close'
+    city: Darlington
+  profiles:
+    -
+      network: GitHub
+      username: natseg
+      url: 'https://github.com/natseg'
+    -
+      network: Linkedin
+      username: natachatomkinson
+      url: 'https://www.linkedin.com/in/natachatomkinson/'
+work:
+  -
+    company: Hurdle
+    position: 'Senior Software Engineer'
+    startDate: 2022-01
+    endDate: 2023-06
+    highlights:
+      - 'Worked in a startup environment'
+      - 'Migrated functionality from PHP Laravel legacy monolith to nodejs microservices'
+      - 'Closely liaised with internal and external stakeholders to scope and deliver new features'
+      - 'Architected micro-services for partner''s authentication with JWT'
+      - 'Built user interfaces using Node.js and React.js'
+      - 'Led the front-end chapter'
+      - 'Organized regular knowledge-sharing sessions to ensure high-quality standards and continuous improvement'
+      - 'Led the team in adopting best practices in front-end development'
+      - 'Facilitated knowledge exchange and collaborated on shared initiatives such as UI component libraries and design system development'
+      - 'Worked with Terraform and Serverless for infrastructure provisioning'
+      - 'Designed and documented APIs'
+      - 'Mentored and coached'
+      - 'Hired team members'
+      - 'Used AWS suite'
+      - 'Designed and documented APIs'
+      - 'Practiced Test-Driven Development (TDD)'
+      - 'Learnt some Go in mobbing sessions during developer''s 10% time'
+  -
+    company: 'Kano Computing'
+    position: 'Senior Full Stack Engineer'
+    startDate: 2021-09
+    endDate: 2021-12
+    highlights:
+      - 'Back-end focused'
+      - Kubernetes
+      - 'Worked on a new platform to deliver content for the StemPlayer'
+  -
+    company: 'University of York'
+    position: 'Senior Software Developer'
+    startDate: 2019-08
+    endDate: 2021-08
+    highlights:
+      - 'Supported org-wide migration to AWS and react/nodejs'
+      - 'Closely liaised with internal stakeholders to scope and deliver new features'
+      - 'Mentored and paired with team members'
+      - 'Participated in recruitment panels'
+      - 'Developed web and mobile applications'
+      - 'Created a shared React component library using Storybook'
+      - 'Integrated university systems with external APIs'
+      - 'Used AWS services (Lambda, S3, DynamoDB, EventBridge, SQS)'
+      - 'Implemented event-driven architecture'
+  -
+    company: 'Rebase Interactive Limited'
+    position: 'Full-stack Developer'
+    startDate: 2018-02
+    endDate: 2019-08
+    highlights:
+      - 'Built technically performant apps for clients'
+      - 'Worked with Elixir, Ruby, Rails, ReactJS, Sass, CSS, and Node.js'
+      - 'Used Rollup and Webpack for bundling'
+  -
+    company: 'Forward Financing'
+    position: 'Full-stack Developer'
+    startDate: 2018-02
+    endDate: 2019-08
+    highlights:
+      - 'Improved ability to auto-decline deals with a high chance of failing'
+      - 'Created a shared React component library'
+      - 'Developed a shared TypeScript utility functions library'
+      - 'Refactored statistics modules for internal-facing apps'
+      - 'Worked with Ruby on Rails, React, and Elixir with Phoenix'
+  -
+    company: 'WEARVR LLC'
+    position: 'Web and Mobile developer'
+    startDate: 2016-08
+    endDate: 2018-02
+    highlights:
+      - 'Developed and maintained VR game platform'
+      - 'Used automated testing'
+      - 'Worked with Ruby on Rails, SQL databases, CSS, JavaScript, React, react-native, rspec, Mocha, Chai, and Jasmine'
+  -
+    company: Amplience
+    position: 'Presales Engineer'
+    startDate: 2016-05
+    endDate: 2016-08
+    highlights:
+      - 'Examined client requirements and provided feasibility estimates'
+      - 'Developed proof of concept solutions'
+      - 'Performed client-facing demos using JavaScript'
+  -
+    company: Amplience
+    position: 'Systems Analyst'
+    startDate: 2015-03
+    endDate: 2016-04
+    highlights:
+      - 'Gathered requirements and helped clients implement new solutions'
+      - 'Created XML metadata schemas'
+  -
+    company: ChannelAdvisor
+    position: 'Project Manager'
+    startDate: 2013-07
+    endDate: 2015-03
+    highlights:
+      - 'Trained clients on SAAS solution'
+      - 'Used regular expressions, FTP, and advanced Excel functions'
+      - 'Implemented light VBA scripting'
+education:
+  -
+    institution: 'University of York'
+    startDate: '2020'
+    endDate: 2023-04
+    area: 'Computer Science'
+    studyType: MSc
+  -
+    institution: 'Université Jean Moulin (Lyon III)'
+    startDate: '2006'
+    endDate: '2007'
+    area: 'English teaching'
+    studyType: 'C.A.P.E.S. (≈P.G.D.E.)'
+  -
+    institution: 'Université Jean Moulin (Lyon III)'
+    startDate: '2005'
+    endDate: '2006'
+    area: 'English Language, Civilisation and Literature'
+    studyType: 'Master 1'
+  -
+    institution: 'Université Stendhal (Grenoble III)'
+    startDate: '2004'
+    endDate: '2005'
+    area: 'English Language, Civilisation and Literature'
+    studyType: BA
+skills:
+  -
+    name: 'Programming Languages'
+    keywords:
+      - 'JavaScript (Node.js, React.js)'
+      - TypeScript
+      - Ruby
+      - Elixir
+      - Python
+      - SQL
+      - Racket
+      - C
+      - Svelte
+      - 'VBA (Excel)'
+      - PHP
+  -
+    name: 'Frameworks and Libraries'
+    keywords:
+      - React.js
+      - ExpressJS
+      - 'Ruby on Rails'
+      - Phoenix
+      - SpringBoot
+      - Laravel
+  -
+    name: 'DevOps and Tools'
+    keywords:
+      - Docker
+      - 'Docker Compose'
+      - Localstack
+      - 'Git (including Git hooks)'
+      - 'Bash scripting'
+      - 'Oracle SQL'
+      - 'Git version control (GitHub, Bitbucket)'
+      - Kubernetes
+  -
+    name: Diagrams
+    keywords:
+      - plantuml
+  -
+    name: 'Cloud Technologies'
+    keywords:
+      - Heroku
+      - 'AWS (Amplify, API Gateway, CloudFormation, Cloudwatch, DynamoDB, ECS, EventBridge, Lambdas, RDS, S3, SNS, SQS, ...)'
+      - 'AWS CLI, SDK, CDK'
+      - 'Serverless Framework'
+      - Terraform
+  -
+    name: Databases
+    keywords:
+      - 'Oracle SQL'
+      - DynamoDB
+      - MySQL
+      - 'MongoDB (AWS DocumentDB)'
+  -
+    name: CI/CD
+    keywords:
+      - SonarCloud
+      - Jenkins
+      - 'Bitbucket Pipelines'
+      - Buddy
+      - 'GitHub Actions'
+  -
+    name: Testing
+    keywords:
+      - Jest
+      - Ava
+      - Cypress
+      - RSpec
+      - Minitest
+      - ExUnit
+      - PHPUnit
+  -
+    name: 'Front-end Development'
+    keywords:
+      - HTML
+      - CSS
+      - JavaScript
+      - React
+      - CSS-in-JS
+      - 'Tailwind CSS'
+      - 'Material-UI (@mui)'
+      - Post-processors
+      - Sass
+      - Redux
+      - Storybook
+  -
+    name: 'Project Management'
+    keywords:
+      - 'Agile (Scrum)'
+      - Jira
+      - Confluence
+      - Bitbucket
+      - GitHub
+      - Kanban
+interests:
+  -
+    name: Hobbies
+    keywords:
+      - Sewing
+      - Gardening
+      - Running
+      - 'Wild Swimming'
+      - 'Video Games'
+      - 'Board Games'
+      - 'Role-playing Games'
+languages:
+  -
+    language: 'English & French'
+    fluency: 'Native or bilingual proficiency'

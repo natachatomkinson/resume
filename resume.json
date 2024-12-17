@@ -20,6 +20,7 @@
     {
       "label": "Linkedin",
       "network": "Linkedin",
+      "user": "natachatomkinson",
       "url": "https://www.linkedin.com/in/natachatomkinson/"
     }
   ],
@@ -168,10 +169,10 @@
         "position": "Senior Software Engineer",
         "start": "2022-01",
         "end": "2023-06",
-        "duration": "1 year 6 months",
+        "duration": "2 years, 11 months",
         "location": "Darlington, England, United Kingdom",
         "highlights": [
-          "Worked in startup environment",
+          "Worked in a startup environment",
           "Migrated functionality from PHP Laravel legacy monolith to nodejs microservices",
           "Closely liaised with internal and external stakeholders to scope and deliver new features",
           "Architected micro-services for partner's authentication with JWT",
@@ -359,7 +360,9 @@
         "Gardening",
         "Running",
         "Wild Swimming",
-        "Video Games", "Board Games", "Role-playing Games"
+        "Video Games",
+        "Board Games",
+        "Role-playing Games"
       ]
     }
   ]

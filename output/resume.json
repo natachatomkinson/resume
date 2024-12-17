@@ -1,0 +1,341 @@
+{
+  "name": "Natacha Tomkinson",
+  "info": {
+    "label": "Senior software engineer/Lead",
+    "brief": "Full-stack software engineer with 8+ years industry experience specializing in cloud-driven web applications and event-driven architectures"
+  },
+  "contact": {
+    "email": "natacha@tomkinsons.uk",
+    "phone": "+447445673908"
+  },
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Darlington",
+    "address": "1 Greencroft Close"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Senior Software Engineer",
+        "employer": "Hurdle",
+        "start": "2022-01",
+        "end": "2023-06",
+        "keywords": [],
+        "highlights": [
+          "Worked in a startup environment",
+          "Migrated functionality from PHP Laravel legacy monolith to nodejs microservices",
+          "Closely liaised with internal and external stakeholders to scope and deliver new features",
+          "Architected micro-services for partner's authentication with JWT",
+          "Built user interfaces using Node.js and React.js",
+          "Led the front-end chapter",
+          "Organized regular knowledge-sharing sessions to ensure high-quality standards and continuous improvement",
+          "Led the team in adopting best practices in front-end development",
+          "Facilitated knowledge exchange and collaborated on shared initiatives such as UI component libraries and design system development",
+          "Worked with Terraform and Serverless for infrastructure provisioning",
+          "Designed and documented APIs",
+          "Mentored and coached",
+          "Hired team members",
+          "Used AWS suite",
+          "Designed and documented APIs",
+          "Practiced Test-Driven Development (TDD)",
+          "Learnt some Go in mobbing sessions during developer's 10% time"
+        ]
+      },
+      {
+        "position": "Senior Full Stack Engineer",
+        "employer": "Kano Computing",
+        "start": "2021-09",
+        "end": "2021-12",
+        "keywords": [],
+        "highlights": [
+          "Back-end focused",
+          "Kubernetes",
+          "Worked on a new platform to deliver content for the StemPlayer"
+        ]
+      },
+      {
+        "position": "Senior Software Developer",
+        "employer": "University of York",
+        "start": "2019-08",
+        "end": "2021-08",
+        "keywords": [],
+        "highlights": [
+          "Supported org-wide migration to AWS and react/nodejs",
+          "Closely liaised with internal stakeholders to scope and deliver new features",
+          "Mentored and paired with team members",
+          "Participated in recruitment panels",
+          "Developed web and mobile applications",
+          "Created a shared React component library using Storybook",
+          "Integrated university systems with external APIs",
+          "Used AWS services (Lambda, S3, DynamoDB, EventBridge, SQS)",
+          "Implemented event-driven architecture"
+        ]
+      },
+      {
+        "position": "Full-stack Developer",
+        "employer": "Rebase Interactive Limited",
+        "start": "2018-02",
+        "end": "2019-08",
+        "keywords": [],
+        "highlights": [
+          "Built technically performant apps for clients",
+          "Worked with Elixir, Ruby, Rails, ReactJS, Sass, CSS, and Node.js",
+          "Used Rollup and Webpack for bundling"
+        ]
+      },
+      {
+        "position": "Full-stack Developer",
+        "employer": "Forward Financing",
+        "start": "2018-02",
+        "end": "2019-08",
+        "keywords": [],
+        "highlights": [
+          "Improved ability to auto-decline deals with a high chance of failing",
+          "Created a shared React component library",
+          "Developed a shared TypeScript utility functions library",
+          "Refactored statistics modules for internal-facing apps",
+          "Worked with Ruby on Rails, React, and Elixir with Phoenix"
+        ]
+      },
+      {
+        "position": "Web and Mobile developer",
+        "employer": "WEARVR LLC",
+        "start": "2016-08",
+        "end": "2018-02",
+        "keywords": [],
+        "highlights": [
+          "Developed and maintained VR game platform",
+          "Used automated testing",
+          "Worked with Ruby on Rails, SQL databases, CSS, JavaScript, React, react-native, rspec, Mocha, Chai, and Jasmine"
+        ]
+      },
+      {
+        "position": "Presales Engineer",
+        "employer": "Amplience",
+        "start": "2016-05",
+        "end": "2016-08",
+        "keywords": [],
+        "highlights": [
+          "Examined client requirements and provided feasibility estimates",
+          "Developed proof of concept solutions",
+          "Performed client-facing demos using JavaScript"
+        ]
+      },
+      {
+        "position": "Systems Analyst",
+        "employer": "Amplience",
+        "start": "2015-03",
+        "end": "2016-04",
+        "keywords": [],
+        "highlights": [
+          "Gathered requirements and helped clients implement new solutions",
+          "Created XML metadata schemas"
+        ]
+      },
+      {
+        "position": "Project Manager",
+        "employer": "ChannelAdvisor",
+        "start": "2013-07",
+        "end": "2015-03",
+        "keywords": [],
+        "highlights": [
+          "Trained clients on SAAS solution",
+          "Used regular expressions, FTP, and advanced Excel functions",
+          "Implemented light VBA scripting"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "University of York",
+        "start": "2020",
+        "end": "2023-04",
+        "summary": "",
+        "area": "Computer Science",
+        "studyType": "MSc"
+      },
+      {
+        "institution": "Université Jean Moulin (Lyon III)",
+        "start": "2006",
+        "end": "2007",
+        "summary": "",
+        "area": "English teaching",
+        "studyType": "C.A.P.E.S. (≈P.G.D.E.)"
+      },
+      {
+        "institution": "Université Jean Moulin (Lyon III)",
+        "start": "2005",
+        "end": "2006",
+        "summary": "",
+        "area": "English Language, Civilisation and Literature",
+        "studyType": "Master 1"
+      },
+      {
+        "institution": "Université Stendhal (Grenoble III)",
+        "start": "2004",
+        "end": "2005",
+        "summary": "",
+        "area": "English Language, Civilisation and Literature",
+        "studyType": "BA"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Programming Languages",
+        "skills": [
+          "JavaScript (Node.js, React.js)",
+          "TypeScript",
+          "Ruby",
+          "Elixir",
+          "Python",
+          "SQL",
+          "Racket",
+          "C",
+          "Svelte",
+          "VBA (Excel)",
+          "PHP"
+        ]
+      },
+      {
+        "name": "Frameworks and Libraries",
+        "skills": [
+          "React.js",
+          "ExpressJS",
+          "Ruby on Rails",
+          "Phoenix",
+          "SpringBoot",
+          "Laravel"
+        ]
+      },
+      {
+        "name": "DevOps and Tools",
+        "skills": [
+          "Docker",
+          "Docker Compose",
+          "Localstack",
+          "Git (including Git hooks)",
+          "Bash scripting",
+          "Oracle SQL",
+          "Git version control (GitHub, Bitbucket)",
+          "Kubernetes"
+        ]
+      },
+      {
+        "name": "Diagrams",
+        "skills": [
+          "plantuml"
+        ]
+      },
+      {
+        "name": "Cloud Technologies",
+        "skills": [
+          "Heroku",
+          "AWS (Amplify, API Gateway, CloudFormation, Cloudwatch, DynamoDB, ECS, EventBridge, Lambdas, RDS, S3, SNS, SQS, ...)",
+          "AWS CLI, SDK, CDK",
+          "Serverless Framework",
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Databases",
+        "skills": [
+          "Oracle SQL",
+          "DynamoDB",
+          "MySQL",
+          "MongoDB (AWS DocumentDB)"
+        ]
+      },
+      {
+        "name": "CI/CD",
+        "skills": [
+          "SonarCloud",
+          "Jenkins",
+          "Bitbucket Pipelines",
+          "Buddy",
+          "GitHub Actions"
+        ]
+      },
+      {
+        "name": "Testing",
+        "skills": [
+          "Jest",
+          "Ava",
+          "Cypress",
+          "RSpec",
+          "Minitest",
+          "ExUnit",
+          "PHPUnit"
+        ]
+      },
+      {
+        "name": "Front-end Development",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "CSS-in-JS",
+          "Tailwind CSS",
+          "Material-UI (@mui)",
+          "Post-processors",
+          "Sass",
+          "Redux",
+          "Storybook"
+        ]
+      },
+      {
+        "name": "Project Management",
+        "skills": [
+          "Agile (Scrum)",
+          "Jira",
+          "Confluence",
+          "Bitbucket",
+          "GitHub",
+          "Kanban"
+        ]
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/natseg",
+      "user": "natseg"
+    },
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "url": "https://www.linkedin.com/in/natachatomkinson/",
+      "user": "natachatomkinson"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Sewing",
+        "Gardening",
+        "Running",
+        "Wild Swimming",
+        "Video Games",
+        "Board Games",
+        "Role-playing Games"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English & French",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ]
+}

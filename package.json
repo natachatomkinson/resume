@@ -21,11 +21,11 @@
   "dependencies": {
     "@qdequippe/jsonresume-theme-paper": "^0.1.5",
     "fresh-resume-validator": "^0.2.0",
-    "hackmyresume": "^1.9.0-beta",
+    "hackmyresume": "v1.8",
     "jsonresume-theme-a11y": "^2.5.0",
-    "jsonresume-theme-eloquent": "^4.1.0"
+    "jsonresume-theme-eloquent": "^5.0.0"
   },
   "devDependencies": {
-    "prettier": "^2.8.8"
+    "prettier": "^3.4.2"
   }
 }

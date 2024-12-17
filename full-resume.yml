@@ -111,7 +111,7 @@ employment:
     position: Senior Software Engineer
     startDate: January 2022
     endDate: Present
-    duration: 1 year 6 months
+    duration: 2 years, 11 months
     location: Darlington, England, United Kingdom
     highlights:
       - micro-services architecture
@@ -131,6 +131,9 @@ employment:
     endDate: December 2021
     duration: 4 months
     location: York, United Kingdom
+    highlights:
+      - Back-end focused
+      - Kubernetes
 
   - organization: University of York
     position: Senior Software Developer
