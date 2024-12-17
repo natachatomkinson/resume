@@ -26,8 +26,6 @@
   ],
 
   "location": {
-    "address": "1 Greencroft Close",
-    "postalCode": "DL3 8HW",
     "city": "Darlington",
     "countryCode": "UK"
   },
@@ -168,7 +166,7 @@
         "employer": "Hurdle",
         "position": "Senior Software Engineer",
         "start": "2022-01",
-        "end": "2023-06",
+        "end": "2024-12",
         "duration": "2 years, 11 months",
         "location": "Darlington, England, United Kingdom",
         "highlights": [
@@ -178,7 +176,7 @@
           "Architected micro-services for partner's authentication with JWT",
           "Built user interfaces using Node.js and React.js",
           "Led the front-end chapter",
-          "Organized regular knowledge-sharing sessions to ensure high-quality standards and continuous improvement",
+          "Organised regular knowledge-sharing sessions to ensure high-quality standards and continuous improvement",
           "Led the team in adopting best practices in front-end development",
           "Facilitated knowledge exchange and collaborated on shared initiatives such as UI component libraries and design system development",
           "Worked with Terraform and Serverless for infrastructure provisioning",

@@ -21,7 +21,6 @@
   "dependencies": {
     "@qdequippe/jsonresume-theme-paper": "^0.1.5",
     "fresh-resume-validator": "^0.2.0",
-    "hackmyresume": "v1.8",
     "jsonresume-theme-a11y": "^2.5.0",
     "jsonresume-theme-eloquent": "^5.0.0"
   },
