@@ -1,5 +1,5 @@
 {
-  "name": "Natacha Tomkinson",
+  "name": "",
   "label": "Senior Software Engineer",
   "info": {
     "label": "Senior software engineer / Lead",
@@ -7,28 +7,10 @@
     "brief": "Experienced Senior Software Engineer with a strong foundation in cloud-driven web applications and event-driven architectures. Passionate about delivering user-centric solutions. Known for leadership in fostering collaborative environments, mentoring team members, and ensuring high-quality software delivery. Demonstrated expertise in full-stack development with a focus on modern frameworks, cloud services, and microservices architecture."
   },
   "contact": {
-    "phone": "+447445673908",
-    "email": "natacha@tomkinsons.uk"
+    "phone": "",
+    "email": ""
   },
-  "social": [
-    {
-      "label": "GitHub",
-      "network": "GitHub",
-      "user": "natseg",
-      "url": "https://github.com/natseg"
-    },
-    {
-      "label": "Linkedin",
-      "network": "Linkedin",
-      "user": "natachatomkinson",
-      "url": "https://www.linkedin.com/in/natachatomkinson/"
-    }
-  ],
-
-  "location": {
-    "city": "Darlington",
-    "countryCode": "UK"
-  },
+  "social": [],
   "meta": {
     "format": "FRESH@0.6.0",
     "version": "0.5.0"
@@ -136,7 +118,7 @@
           "HTML",
           "CSS",
           "JavaScript",
-          "React.js",
+          "React",
           "CSS-in-JS",
           "Tailwind CSS",
           "Material-UI (@mui)",
@@ -166,14 +148,12 @@
         "employer": "Hurdle",
         "position": "Senior Software Engineer",
         "start": "2022-01",
-        "end": "2024-12",
-        "duration": "2 years, 11 months",
         "location": "Darlington, England, United Kingdom",
         "highlights": [
           "Worked in a startup environment, delivering POC and MVP under short notice for commercial demos",
           "Migrated functionality from PHP Laravel legacy monolith to Node.js event-driven microservices",
           "Closely liaised with internal and external stakeholders to scope and deliver new features",
-          "Architected a partners' authentication microservice with JWT in the AWS ecosystem",
+          "Architected an authentication microservice for partners with JWT in the AWS ecosystem",
           "Proactively designed and implemented AWS Glue jobs to replicate the production environment in a sandbox setting while excluding sensitive data, enhancing testing capabilities",
           "Built internal and external user interfaces using Node.js and React.js",
           "Led the front-end chapter, fostering a culture of collaboration and continuous learning",
@@ -197,7 +177,6 @@
         "position": "Senior Full Stack Engineer",
         "start": "2021-09",
         "end": "2021-12",
-        "duration": "4 months",
         "location": "Remote",
         "highlights": [
           "Sole developer responsible for building a new platform to deliver content for the StemPlayer",
@@ -210,7 +189,6 @@
         "position": "Senior Software Developer",
         "start": "2019-08",
         "end": "2021-08",
-        "duration": "2 years 1 month",
         "location": "York, United Kingdom",
         "highlights": [
           "Supported org-wide migration to the AWS ecosystem and React.js/Node.js",
@@ -218,7 +196,8 @@
           "Paired with and mentored team members",
           "Participated in recruitment panels",
           "Developed web and mobile applications",
-          "Spearheaded the creation of a shared React.js UI component library using Storybook",
+          "Spearheaded the creation of a shared React UI component library using Storybook",
+          "Engaged in a community of practice to share expertise and collaborate",
           "Integrated university systems with external APIs",
           "Used AWS services (Lambda, S3, DynamoDB, EventBridge, SQS)",
           "Implemented event-driven architecture",
@@ -230,14 +209,13 @@
         "position": "Full-stack Developer",
         "start": "2018-02",
         "end": "2019-08",
-        "duration": "1 year 7 months",
         "location": "York, United Kingdom",
         "highlights": [
           "Built technically performant apps for clients, focusing on both front-end and back-end development",
           "Improved decision-making processes by enhancing the auto-decline functionality for deals with a high chance of failure",
-          "Created a shared React.js component library and a shared TypeScript utility functions library to improve code reuse and maintainability",
+          "Created a shared React component library and a shared TypeScript utility functions library to improve code reuse and maintainability",
           "Refactored statistics modules for internal-facing apps to enhance performance and usability",
-          "Worked with a range of technologies including Elixir, Phoenix, PHP, Ruby, Rails, React.js, Sass, CSS, and Node.js",
+          "Worked with a range of technologies including Elixir, Phoenix, PHP, Ruby, Rails, ReactJS, Sass, CSS, and Node.js",
           "Leveraged bundling tools such as Rollup and Webpack to optimise front-end performance"
         ]
       },
@@ -246,13 +224,12 @@
         "position": "Web and Mobile developer",
         "start": "2016-08",
         "end": "2018-02",
-        "duration": "1 year 7 months",
         "location": "Leeds",
         "highlights": [
           "Developed and maintained a full-stack VR game platform, handling both front-end and back-end development to ensure seamless user experiences and robust system performance",
           "Implemented and maintained automated testing to ensure code quality and reliability throughout the development lifecycle",
           "Set-up and maintained CI/CD pipelines using TeamCity",
-          "Worked with Ruby on Rails, SQL databases, CSS, JavaScript, React.js, react-native, rspec, Mocha, Chai, and Jasmine"
+          "Worked with Ruby on Rails, SQL databases, CSS, JavaScript, React, react-native, rspec, Mocha, Chai, and Jasmine"
         ]
       },
       {
@@ -260,7 +237,6 @@
         "position": "Presales Engineer",
         "start": "2016-05",
         "end": "2016-08",
-        "duration": "4 months",
         "location": "London, United Kingdom",
         "highlights": [
           "Examined client requirements and provided feasibility estimates",
@@ -273,7 +249,6 @@
         "position": "Systems Analyst",
         "start": "2015-03",
         "end": "2016-04",
-        "duration": "1 year 2 months",
         "location": "London, United Kingdom",
         "highlights": [
           "Gathered requirements and helped clients implement new solutions",
@@ -285,7 +260,6 @@
         "position": "Project Manager",
         "start": "2013-07",
         "end": "2015-03",
-        "duration": "1 year 9 months",
         "highlights": [
           "Trained clients on SAAS solution",
           "Used regular expressions, FTP, and advanced Excel functions",
@@ -296,11 +270,8 @@
   },
   "education": {
     "summary": "",
-
     "level": "degree",
-
     "degree": "MSc",
-
     "history": [
       {
         "institution": "University of York",
@@ -309,52 +280,7 @@
         "studyType": "MSc",
         "start": "2020",
         "end": "2023-04"
-      },
-      {
-        "institution": "Université Jean Moulin (Lyon III)",
-        "area": "English teaching",
-        "title": "C.A.P.E.S. (≈P.G.D.E.)",
-        "studyType": "C.A.P.E.S. (≈P.G.D.E.)",
-        "start": "2006",
-        "end": "2007"
-      },
-      {
-        "institution": "Université Jean Moulin (Lyon III)",
-        "area": "English Language, Civilisation and Literature",
-        "title": "Master 1",
-        "studyType": "Master 1",
-        "start": "2005",
-        "end": "2006"
-      },
-      {
-        "institution": "Université Stendhal (Grenoble III)",
-        "area": "English Language, Civilisation and Literature",
-        "title": "BA",
-        "degree": "BA",
-        "studyType": "BA",
-        "start": "2004",
-        "end": "2005"
       }
     ]
-  },
-  "languages": [
-    {
-      "language": "English & French",
-      "fluency": "Native or bilingual proficiency"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Hobbies",
-      "keywords": [
-        "Sewing",
-        "Gardening",
-        "Running",
-        "Wild Swimming",
-        "Video Games",
-        "Board Games",
-        "TT Role-playing Games"
-      ]
-    }
-  ]
+  }
 }

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run validate && hackmyresume build resume.json TO out/resume.all -t node_modules/jsonresume-theme-eloquent",
+    "build:anonymous": "npm run validate && hackmyresume build resume-clean.json TO out-anonymous/resume.all -t node_modules/jsonresume-theme-eloquent",
     "validate": "hackmyresume validate resume.json",
     "format": "prettier --write resume.json"
   },
@@ -21,6 +22,7 @@
   "dependencies": {
     "@qdequippe/jsonresume-theme-paper": "^0.1.5",
     "fresh-resume-validator": "^0.2.0",
+    "hackmyresume": "^1.9.0-beta",
     "jsonresume-theme-a11y": "^2.5.0",
     "jsonresume-theme-eloquent": "^5.0.0"
   },
